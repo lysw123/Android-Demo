@@ -1,4 +1,4 @@
 rebase master with ly
 edit branch ly readme
 master readme
-
+edit for see git diff --cached
